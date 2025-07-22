@@ -1,0 +1,10 @@
+Create a Screen flow that should show three options: Contact,
+Opportunity & Case. Now user will select an option then accordingly a
+record should be created.
+. Place flow on Account using a quick action and Test Flow
+[Button Label: Create Record].
+. Place flow on Account Record Page and Test Flow.
+. Upload files on Contact, Case, Opportunity too.
+. Handle Failed Flows  - Use Fault Path and check failed flow in Automation App and also search home in paused and flow interview
+. Pause Functionality - enable pause in process automation.
+. Sub Flow Functionality
