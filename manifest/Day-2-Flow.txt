@@ -1,0 +1,4 @@
+Create A Screen Flow to get name,closedate,stagename,Amount,Account(Lookup)From User
+Create a Opportunity record related to the account on screen
+Checkbox to upload file or not related to opportunity
+ 
