@@ -1,0 +1,9 @@
+Create A Screen Flow to get name,closedate,stagename,Amount,Account(Lookup)From User
+Create a Opportunity record related to the account on screen
+Checkbox to upload file or not related to opportunity
+ 
+ Automation Lightning App that new in salesforce related to all Flow 
+ Lookup exist in screen - ApiName, source object we need to fill.
+ we can make section fields in screen element using section. i.e we placed in 2-column 
+ based like page layout.
+ file also create as a record i.e content document Object.
